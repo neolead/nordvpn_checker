@@ -20,6 +20,10 @@ If any, just replace "proxychains curl" with "curl"
 
 
 `-Download proxy list from nordvpn servers`
+
 `-Check accounts over socks auth`
+
 `-Check accounts of exp date`
+
 `-Generating proxychains.conf file`
+
