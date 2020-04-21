@@ -1,6 +1,11 @@
 `Nordvpn Multithreaded account check tool Created by matrix`
 Nordvpn checker
 
+Two tools:
+
+chk3.sh  checker notdvpn accounts
+fix_proxychains.sh recombine tool to get live proxy (only for nordvpn and proxychains)
+
 
 `Run like:` bash chk3.sh filename.txt 
 
